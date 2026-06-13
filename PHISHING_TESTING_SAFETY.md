@@ -23,8 +23,7 @@
 ### 3. Disable JavaScript in Browser
 
 - Firefox browser
-- Install NoScript extension
-- Block all scripts on phishing sites
+- Install NoScript extensiongit 
 - This stops most malware
 
 ### 4. Use Fake Data Only
