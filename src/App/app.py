@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
-from feature_extraction import extract_all_features
-from predict import PhishingPredictor
-from report import ReportGenerator
+from .feature_extraction import extract_all_features
+from .predict import PhishingPredictor
+from .report import ReportGenerator
 import traceback
 
 app = Flask(__name__)
